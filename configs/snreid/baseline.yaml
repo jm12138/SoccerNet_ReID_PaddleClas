@@ -32,7 +32,7 @@ Arch:
   Head:
     name: "FC"
     embedding_size: 2048
-    class_num: 751
+    class_num: 161443
     weight_attr:
       initializer:
         name: KaimingUniform
